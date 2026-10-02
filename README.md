@@ -1,0 +1,2 @@
+# premium-obs-trace-001-distributed-tracing-setup-guid
+Your distributed tracing setup is scattered across docs, Slack threads, and tribal knowledge—costing your team hours of debugging when systems fail. The Distributed Tracing Setup Guide Template consolidates everything into one living, searchable blueprint.  This Notion template transforms distributed tracing from a chaotic implementation nightmare
